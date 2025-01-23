@@ -1,0 +1,42 @@
+---
+title: "Data Memo"
+format: html
+editor: visual
+---
+
+
+
+Your final project is intended to showcase your analytical abilities and model-building skills on a dataset of your choosing. Your memo should be written in the form of a short paper; if you've already obtained your data, you can include code or figures, but you are not required to. Your memo should answer all of the following:
+
+### **An overview of your dataset**
+
+1. What does it include?
+
+2. Where and how will you be obtaining it? Include the link and source. If you plan on creating a web scraper or using an API, describe your plans.
+
+3. About how many observations? How many predictors?
+
+4. What types of variables will you be working with?
+
+5. Is there any missing data? About how much? Do you have an idea for how to handle it?
+
+### **An overview of your research question(s)**
+
+1. What variable(s) are you interested in predicting? What question(s) are you interested in answering?
+
+2. Name your response/outcome variable(s) and briefly describe it/them.
+
+3. Which predictors do you think will be especially useful?
+
+4. Is the goal of your model descriptive, predictive, inferential, or a combination? Explain.
+
+### **Your proposed project timeline**
+When do you plan on having your data set loaded, beginning your exploratory data analysis, etc?
+Provide a general timeline for the rest of the quarter.
+
+## **Any questions or concerns**
+
+1. Are there any problems or difficult aspects of the project you anticipate?
+
+2.Any specific questions you have for me/the instructional team?
+
