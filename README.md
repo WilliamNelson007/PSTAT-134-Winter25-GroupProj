@@ -26,3 +26,6 @@ Any specific questions you have for me/the instructional team?
 
 Website Links:
 https://www.geeksforgeeks.org/nltk-sentiment-analysis-tutorial-for-beginners/
+
+Yelp API:
+https://business.yelp.com/data/resources/open-dataset/
