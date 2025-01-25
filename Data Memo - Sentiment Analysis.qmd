@@ -14,6 +14,8 @@ Your final project is intended to showcase your analytical abilities and model-b
 
 <https://amazon-reviews-2023.github.io/> 1996-2023 amazon reviews with multiple categories
 
+<https://github.com/scrapehero-code/amazon-review-api> Amazon review API
+
 ### **An overview of your dataset**
 
 1.  What does it include?
