@@ -37,7 +37,7 @@ Your final project is intended to showcase your analytical abilities and model-b
 
 3.  About how many observations? How many predictors?
 
-    -   Observations:
+    -   Observations: ...
 
     -   Predictors:
 
@@ -73,15 +73,31 @@ Your final project is intended to showcase your analytical abilities and model-b
 
 1.  What variable(s) are you interested in predicting? What question(s) are you interested in answering?
 
-    -   We are interested
+    -   
+    -   Some questions are
+        -   
 
 2.  Name your response/outcome variable(s) and briefly describe it/them.
 
-    -   
+    -   Our response will be the sentiment category of reviews based on customer, including:
+
+        -   Positive
+
+        -   Neutral
+
+        -   Negative
 
 3.  Which predictors do you think will be especially useful?
 
-    -   
+    -   Review Text: Most critical for analyzing sentiment and themes.
+
+    <!-- -->
+
+    -   Star Ratings: Useful for aligning reviews with sentiment categories.
+
+    -   Helpful Votes: Indicates which reviews provide valuable feedback.
+
+    -   Verified Purchase: Helps distinguish credible reviews from unverified ones.
 
 4.  Is the goal of your model descriptive, predictive, inferential, or a combination? Explain.
 
