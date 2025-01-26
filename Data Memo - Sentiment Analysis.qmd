@@ -16,19 +16,54 @@ Your final project is intended to showcase your analytical abilities and model-b
 
 1.  What does it include?
 
-    -   Contains multiple data sets from amazon through the time period of 1996-2023, we plan to use...
+    -   `Toys and Games` is a dataset that contains Amazon review data spanning from 1996-2023 in their toys and games category. This will be used if we are not able to use an API. The dataset includes:
+
+        -   **Review Text**: Written feedback from customers.
+
+        -   **Star Ratings**: Numerical ratings of products (1–5 scale).
+
+        -   **Helpful Votes**: Number of votes indicating how helpful a review is.
+
+        -   **Verified Purchase**: Boolean indicating whether the reviewer purchased the product.
+
+        -   **Timestamp**: When the review was written.
+
+        -   **Product ID (ASIN)**: A unique identifier for each product
 
 2.  Where and how will you be obtaining it? Include the link and source. If you plan on creating a web scraper or using an API, describe your plans.
 
-    -   Our plan is to attempt to use amazon API to pull rating/review data
+    -   Our plan is to attempt to use an Amazon API to pull rating/review data directly.
+    -   If the API does not workout, we will use the `Toys and Games` Amazon dataset. The dataset is being downloading from a [github repository](https://amazon-reviews-2023.github.io/).
 
-3.   About how many observations? How many predictors?
+3.  About how many observations? How many predictors?
 
-    -   
+    -   Observations:
+
+    -   Predictors:
+
+        -   Text (Review content)
+
+        -   Rating (Star rating)
+
+        -   Verified Purchase
+
+        -   Helpful Votes
+
+        -   Timestamp
+
+        -   Product ID
 
 4.  What types of variables will you be working with?
 
-    -   
+    -   There will be multiple types of variables we will be working with including:
+
+        -   **String** (str)
+
+        -   **Float**
+
+        -   **Boolean** (bool)
+
+        -   **Integer** (Int)
 
 5.  Is there any missing data? About how much? Do you have an idea for how to handle it?
 
@@ -38,7 +73,7 @@ Your final project is intended to showcase your analytical abilities and model-b
 
 1.  What variable(s) are you interested in predicting? What question(s) are you interested in answering?
 
-    -   
+    -   We are interested
 
 2.  Name your response/outcome variable(s) and briefly describe it/them.
 
@@ -59,6 +94,5 @@ When do you plan on having your data set loaded, beginning your exploratory data
 ## **Any questions or concerns**
 
 1.  Are there any problems or difficult aspects of the project you anticipate?
-    -   
+
 2.  Any specific questions you have for me/the instructional team?
-    -   
