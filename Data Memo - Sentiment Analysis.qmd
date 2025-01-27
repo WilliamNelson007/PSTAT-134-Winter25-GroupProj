@@ -1,6 +1,6 @@
 ---
 title: "Data Memo - Sentiment Analysis"
-format: html
+format: pdf
 editor: visual
 ---
 
@@ -29,11 +29,11 @@ editor: visual
 2.  Where and how will you be obtaining it? Include the link and source. If you plan on creating a web scraper or using an API, describe your plans.
 
     -   Our plan is to attempt to use an Amazon API to pull rating/review data directly.
-    -   If the API does not workout, we will use the `Toys and Games` Amazon dataset. The dataset is being downloading from a [github repository](https://amazon-reviews-2023.github.io/).
+    -   If the API does not workout, we will use the `Toys and Games` Amazon dataset. The dataset is being downloaded from a [github repository](https://amazon-reviews-2023.github.io/).
 
 3.  About how many observations? How many predictors?
 
-    -   Observations: The amount of observations is unknown as of this time from the API. `Toys and Games` is a very large dataset.
+    -   Observations: The amount of observations is unknown as of this time from the API. `Toys and Games` is a very large dataset, with hundreds of thousands of reviews.
 
     -   Predictors:
 
