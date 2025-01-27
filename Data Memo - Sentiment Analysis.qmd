@@ -4,7 +4,6 @@ format: html
 editor: visual
 ---
 
-<https://neptune.ai/blog/10-nlp-projects> Is where we got the project Idea
 
 <https://amazon-reviews-2023.github.io/> 1996-2023 amazon reviews with multiple categories
 
@@ -35,8 +34,8 @@ editor: visual
 
 3.  About how many observations? How many predictors?
 
-    -   Observations: ...
-
+    -   Observations: The amount of observations is unknown as of this time from the API. `Toys and Games` is a very large dataset.
+    
     -   Predictors:
 
         -   Text (Review content)
@@ -101,5 +100,6 @@ We will start by loading the data from the github data set this week and doing E
 ## **Any questions or concerns**
 
 1.  Are there any problems or difficult aspects of the project you anticipate?
+
 
 2.  Any specific questions you have for me/the instructional team?

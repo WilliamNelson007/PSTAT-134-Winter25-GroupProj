@@ -22,10 +22,12 @@ Provide a general timeline for the rest of the quarter.
 Are there any problems or difficult aspects of the project you anticipate?
 Any specific questions you have for me/the instructional team?
 
-
+Project Idea:
+https://neptune.ai/blog/10-nlp-projects
 
 Website Links:
 https://www.geeksforgeeks.org/nltk-sentiment-analysis-tutorial-for-beginners/
 
 Yelp API:
 https://business.yelp.com/data/resources/open-dataset/
+
