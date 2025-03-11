@@ -50,7 +50,7 @@ def get_tweet_sentiment(self, tweet):
     else:
         return 'negative'
 
-def get_tweets(self, query, count = 10):
+def get_tweets(self, query, count = 100):
     '''
     Main function to fetch tweets and parse them.
     '''
@@ -90,7 +90,7 @@ def main():
     # creating object of TwitterClient Class
     api = TwitterClient()
     # calling function to get tweets
-    tweets = api.get_tweets(query = 'Donald Trump', count = 200)
+    tweets = api.get_tweets(query = 'Donald Trump', count = 100)
 
     # picking positive tweets from tweets
     ptweets = [tweet for tweet in tweets if tweet['sentiment'] == 'positive']
@@ -117,3 +117,11 @@ def main():
 if __name__ == "__main__":
     # calling main function
     main()
+
+
+
+
+
+
+
+# 
